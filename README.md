@@ -5,7 +5,7 @@
 ![Wi-Fi radio frequency bands](ch.jpg)
 
 
-### 1.44" 128 x 128 TFT Color Display Module for Arduino SPI ILI9163
+### 1.44" 128 x 128 TFT Color Display Module for arduino pro mini SPI ILI9163
 * VCC  -->  3V        
 * GND  -->  GND       
 * GND  -->  GND
@@ -18,7 +18,7 @@
 * RST  -->  TFT_RST    6      
 * CS   -->  TFT_CS     7
 
-### Adapter nRF24L01+ Arduino Uno Purpose
+### Adapter nRF24L01+ arduino pro mini
 * CE           9 (changes in the sketch) Mode selection: receiver / transmitter
 * CSN (CS/SS) 10 (changes in the sketch) SPI bus - device selection
 * SCK         13 (SCK) SPI bus - clock line
