@@ -1,8 +1,8 @@
 # Spectrum-analyzer-2.4-GHz
 ![Arduino Pro Mini](Scanner4.jpg)
 
-### Wi-Fi radio frequency bands
-(ch.jpg)
+![Wi-Fi radio frequency bands](ch.jpg)
+
 
 ### 1.44" 128 x 128 TFT Color Display Module for Arduino SPI ILI9163
 * VCC  -->  3V        
