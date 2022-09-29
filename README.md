@@ -1,6 +1,7 @@
 # Spectrum-analyzer-2.4-GHz
 ![Arduino Pro Mini](Scanner4.jpg)
 
+### Wi-Fi radio frequency bands
 ![Wi-Fi radio frequency bands](ch.jpg)
 
 
