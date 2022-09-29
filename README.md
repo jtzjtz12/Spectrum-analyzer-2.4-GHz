@@ -2,7 +2,7 @@
 ![Arduino Pro Mini](Scanner4.jpg)
 
 
-
+### 1.44" 128 x 128 TFT Color Display Module for Arduino SPI ILI9163
 * VCC  -->  3V        
 * GND  -->  GND       
 * GND  -->  GND
