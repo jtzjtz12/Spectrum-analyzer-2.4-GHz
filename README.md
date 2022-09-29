@@ -1,2 +1,2 @@
 # Spectrum-analyzer-2.4-GHz
-![Arduino Pro Mini](Scanner1.jpg)
+![Arduino Pro Mini](Scanner2.jpg)
