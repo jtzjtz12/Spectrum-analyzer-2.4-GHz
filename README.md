@@ -2,7 +2,7 @@
 ![Arduino Pro Mini](Scanner4.jpg)
 
 ### Wi-Fi radio frequency bands
-![Wi-Fi radio frequency bands](ch1.jpg)
+![Wi-Fi radio frequency bands](chh.jpg)
 
 
 ### 1.44" 128 x 128 TFT Color Display Module for arduino pro mini SPI ILI9163
