@@ -15,7 +15,13 @@
 * RST  -->  TFT_RST    6      
 * CS   -->  TFT_CS     7
 
-
+### Adapter nRF24L01+ Arduino Uno Purpose
+* CE           9 (changes in the sketch) Mode selection: receiver / transmitter
+* CSN (CS/SS) 10 (changes in the sketch) SPI bus - device selection
+* SCK         13 (SCK) SPI bus - clock line
+* MO          11 (MOSI) SPI bus - data line (master to slave)
+* MI          12 (MISO) SPI bus - data line (slave to master)
+* IRQ         Not used Interrupt
 
 # Device diagram
 ![Arduino Pro Mini](SH.jpg)
