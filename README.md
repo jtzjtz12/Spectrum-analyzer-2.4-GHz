@@ -4,7 +4,7 @@
 * Wi-Fi devices with a channel width of 5 - 40-MHz.
 * The module listens to each channel in the 1-MHz range and builds a graph of their workload, which can be used to judge the quality of the radio range.
 * A graph of one color displays the state of the frequency range in the current time,a different color will be the graph with the history of maximum load.
-*
+
 
 ![Arduino Pro Mini](Scanner4.jpg)
 
